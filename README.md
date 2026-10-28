@@ -119,7 +119,7 @@ dotnet run
 
 ## 👤 Autor
 
-Desenvolvido por **<seu nome>**, com a consultoria de domínio de uma nutricionista (minha esposa 💚).
+Desenvolvido por **Marcos Silva Chaves Rebouças**, com a consultoria de domínio de uma nutricionista (minha esposa 💚).
 
 - LinkedIn: https://www.linkedin.com/in/marcos-rebouças-a6b714223/
 - GitHub: https://github.com/marcosReboucas7
