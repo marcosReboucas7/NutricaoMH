@@ -13,7 +13,8 @@
 
 ## 📌 Sobre o projeto
 
-O **NutriçãoMH** nasceu da união de duas áreas: a **programação** e a **nutrição**. O domínio do sistema (consultas, avaliações, evolução do paciente, plano alimentar) vem da experiência real de uma nutricionista. A parte técnica é um projeto de estudo e portfólio, para aplicar na prática conceitos de back-end moderno.
+O NutriçãoMH é uma junção de um casal estudante. A minha esposa é estudante de nutrição e eu sou estudante de programação com foco em back-end moderno. A finalidade deste projeto é de praticar os conhecimentos de ambos para realizar um projeto sólido e ampliar os nossos conhecimentos nas áreas.
+NutriçãoMH junta o foco em nutrição, eu e minha esposa (O "M" é de Marcos e o "H" é de Hanrry).
 
 O objetivo é permitir que o **nutricionista** gerencie seus pacientes e acompanhe a evolução ao longo do tempo, enquanto o **paciente** consulta os próprios dados com segurança.
 
@@ -120,8 +121,8 @@ dotnet run
 
 Desenvolvido por **<seu nome>**, com a consultoria de domínio de uma nutricionista (minha esposa 💚).
 
-- LinkedIn: <seu-link>
-- GitHub: <seu-link>
+- LinkedIn: https://www.linkedin.com/in/marcos-rebouças-a6b714223/
+- GitHub: https://github.com/marcosReboucas7
 
 ## 📄 Licença
 
